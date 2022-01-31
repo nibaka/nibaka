@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @nibaka
+- 👋 Hi, I’m Nibaka Mirzabagher
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me Linkdin
 
+[![alt text](images/linkedin.png)][1]
+
+[1]: https://www.linkedin.com/in/nika-mirzabagher
 
 Here are some ideas to get you started:
 
@@ -18,6 +21,3 @@ Here are some ideas to get you started:
 
 ![Visits](https://badges.pufler.dev/visits/nibaka/nibaka)
 ![Repos](https://badges.pufler.dev/repos/nibaka)
-![Gists](https://badges.pufler.dev/gists/nibaka)
-
-
