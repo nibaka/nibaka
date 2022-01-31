@@ -5,16 +5,8 @@
 
 
 Here are some ideas to get you started:
-How to reach me:
-[![alt text]  [![alt text](images/linkedin.png)][1]  [![alt text](images/telgram.png)][2]
 
-
-[1]: https://www.linkedin.com/in/nika-mirzabagher
-[2]: https://t.me/nibaka
-
-
-
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=nibaka&show_icons=true&theme=radical)
+![Nika's GitHub stats](https://github-readme-stats.vercel.app/api?username=nibaka&show_icons=true&theme=radical)
 
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nibaka&show_owner=true&repo=authman&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
