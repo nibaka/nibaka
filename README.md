@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 ![Nikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nibaka&show_icons=true&theme=radical)
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nibaka&show_owner=true&repo=authman&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nibaka &show_owner=true&repo=authman&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nibaka&langs_count=8&theme=merko)](https://github.com/anuraghazra/github-readme-stats) -->
