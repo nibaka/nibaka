@@ -1,11 +1,8 @@
 - 👋 Hi, I’m Nibaka Mirzabagher
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning React.js
-- 📫 How to reach me Linkdin
+- 📫 How to reach me Linkdin : https://www.linkedin.com/in/nika-mirzabagher
 
-[![alt text](images/linkedin.png)][1]
-
-[1]: https://www.linkedin.com/in/nika-mirzabagher
 
 Here are some ideas to get you started:
 
