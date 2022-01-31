@@ -3,13 +3,9 @@
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me Linkdin
 
-### Hi there ًں‘‹ I'm Nika Mirzabagher
 
 Here are some ideas to get you started:
-
-- ًں”­ Iâ€™m currently working on Openstack and Cloud native apps
-- ًںŒ± Iâ€™m currently learning Python and in continue learning Django framework 
-- ًں“« How to reach me:
+How to reach me:
 [![alt text]  [![alt text](images/linkedin.png)][1]  [![alt text](images/telgram.png)][2]
 
 
