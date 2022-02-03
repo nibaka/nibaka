@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nibaka Mirzabagher
+- 👋 Hi, I’m Nika Mirzabagher
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me Linkdin : https://www.linkedin.com/in/nika-mirzabagher
