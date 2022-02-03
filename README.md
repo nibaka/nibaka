@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![Visits](https://badges.pufler.dev/visits/nibaka/nibaka)
 ![Repos](https://badges.pufler.dev/repos/nibaka)
-![Gists](https://badges.pufler.dev/gists/nibaka)
+
 
 
